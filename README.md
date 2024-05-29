@@ -1,4 +1,5 @@
 # Hex game analyzer!
+(USE CODE VIEW MODE PLS)
 this was my 2nd project from Algorithms and Data structer subject.
 here is description of task: 
 The classic variant of the game Hex is played on an 11 x 11 hexagonal board:
